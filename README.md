@@ -46,9 +46,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![282652832-1403b0b4-d361-4f2b-a149-e63dac3aa423](https://github.com/SriSaiPriyaSenthilvel/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119475702/b58617a8-1b1d-484c-aa92-7b467920a428)
+![282652844-07be906c-d0a1-4da1-ac6e-5f1bf949bf7e](https://github.com/SriSaiPriyaSenthilvel/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119475702/8b57d4d0-8a11-4af6-b4a8-cf33561dd4bb)
+![282652860-6efd715c-0eeb-4d3e-9d13-22bd1e1712e2](https://github.com/SriSaiPriyaSenthilvel/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119475702/fca69244-89e5-4033-9618-20d74749a681)
 
-### Name:
-### Register Number:
+### Name: SRI SAI PRIYA.S
+### Register Number: 212222240103
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
